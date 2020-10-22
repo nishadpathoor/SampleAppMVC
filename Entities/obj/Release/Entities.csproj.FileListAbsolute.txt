@@ -1,0 +1,5 @@
+D:\GitHub\SampleAppMVC\Entities\bin\Release\Entities.dll
+D:\GitHub\SampleAppMVC\Entities\bin\Release\Entities.pdb
+D:\GitHub\SampleAppMVC\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+D:\GitHub\SampleAppMVC\Entities\obj\Release\Entities.dll
+D:\GitHub\SampleAppMVC\Entities\obj\Release\Entities.pdb

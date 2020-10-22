@@ -1,0 +1,14 @@
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Api.Integration.dll
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Api.Integration.pdb
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Api.Interface.dll
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Api.OneSingle.dll
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Entities.dll
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Newtonsoft.Json.dll
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Api.Interface.pdb
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Api.OneSingle.pdb
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Entities.pdb
+D:\GitHub\SampleAppMVC\Api.Integration\bin\Release\Newtonsoft.Json.xml
+D:\GitHub\SampleAppMVC\Api.Integration\obj\Release\Api.Integration.csprojResolveAssemblyReference.cache
+D:\GitHub\SampleAppMVC\Api.Integration\obj\Release\Api.Integration.csproj.CoreCompileInputs.cache
+D:\GitHub\SampleAppMVC\Api.Integration\obj\Release\Api.Integration.dll
+D:\GitHub\SampleAppMVC\Api.Integration\obj\Release\Api.Integration.pdb

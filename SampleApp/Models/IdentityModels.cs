@@ -29,5 +29,7 @@ namespace SampleApp.Models
         {
             return new ApplicationDbContext();
         }
+
+        //public System.Data.Entity.DbSet<ViewModel.AppViewModel> AppViewModels { get; set; }
     }
 }

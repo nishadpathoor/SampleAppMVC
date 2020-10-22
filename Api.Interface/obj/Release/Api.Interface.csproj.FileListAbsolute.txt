@@ -1,0 +1,8 @@
+D:\GitHub\SampleAppMVC\Api.Interface\bin\Release\Api.Interface.dll
+D:\GitHub\SampleAppMVC\Api.Interface\bin\Release\Api.Interface.pdb
+D:\GitHub\SampleAppMVC\Api.Interface\bin\Release\Entities.dll
+D:\GitHub\SampleAppMVC\Api.Interface\bin\Release\Entities.pdb
+D:\GitHub\SampleAppMVC\Api.Interface\obj\Release\Api.Interface.csprojResolveAssemblyReference.cache
+D:\GitHub\SampleAppMVC\Api.Interface\obj\Release\Api.Interface.csproj.CoreCompileInputs.cache
+D:\GitHub\SampleAppMVC\Api.Interface\obj\Release\Api.Interface.dll
+D:\GitHub\SampleAppMVC\Api.Interface\obj\Release\Api.Interface.pdb

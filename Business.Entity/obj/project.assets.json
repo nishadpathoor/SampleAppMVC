@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Nishad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "D:\\GitHub\\SampleAppMVC\\Business.Entity\\Business.Entity.csproj",
+      "projectName": "Business.Entity",
+      "projectPath": "D:\\GitHub\\SampleAppMVC\\Business.Entity\\Business.Entity.csproj",
+      "packagesPath": "C:\\Users\\Nishad\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\SampleAppMVC\\Business.Entity\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Nishad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netstandard2.0": {}
+    }
+  }
+}

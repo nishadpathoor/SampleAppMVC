@@ -1,0 +1,12 @@
+D:\GitHub\SampleAppMVC\Api.OneSingle\bin\Release\Api.OneSingle.dll
+D:\GitHub\SampleAppMVC\Api.OneSingle\bin\Release\Api.OneSingle.pdb
+D:\GitHub\SampleAppMVC\Api.OneSingle\bin\Release\Api.Interface.dll
+D:\GitHub\SampleAppMVC\Api.OneSingle\bin\Release\Entities.dll
+D:\GitHub\SampleAppMVC\Api.OneSingle\bin\Release\Newtonsoft.Json.dll
+D:\GitHub\SampleAppMVC\Api.OneSingle\bin\Release\Api.Interface.pdb
+D:\GitHub\SampleAppMVC\Api.OneSingle\bin\Release\Entities.pdb
+D:\GitHub\SampleAppMVC\Api.OneSingle\bin\Release\Newtonsoft.Json.xml
+D:\GitHub\SampleAppMVC\Api.OneSingle\obj\Release\Api.OneSingle.csprojResolveAssemblyReference.cache
+D:\GitHub\SampleAppMVC\Api.OneSingle\obj\Release\Api.OneSingle.csproj.CoreCompileInputs.cache
+D:\GitHub\SampleAppMVC\Api.OneSingle\obj\Release\Api.OneSingle.dll
+D:\GitHub\SampleAppMVC\Api.OneSingle\obj\Release\Api.OneSingle.pdb

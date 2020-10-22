@@ -1,0 +1,6 @@
+D:\GitHub\SampleAppMVC\ViewModel\bin\Debug\ViewModel.dll
+D:\GitHub\SampleAppMVC\ViewModel\bin\Debug\ViewModel.pdb
+D:\GitHub\SampleAppMVC\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\GitHub\SampleAppMVC\ViewModel\obj\Debug\ViewModel.dll
+D:\GitHub\SampleAppMVC\ViewModel\obj\Debug\ViewModel.pdb
+D:\GitHub\SampleAppMVC\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache

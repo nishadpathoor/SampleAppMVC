@@ -40,6 +40,25 @@ namespace SampleApp
         {
         }
 
+        public List<IdentityRole> GetRoles()
+        {
+            ApplicationDbContext ctx = new ApplicationDbContext();
+           return ctx.Roles.ToList();
+          //   return new List<IdentityRole>();
+        }
+        
+        public void AssignRole(string userId, string roleId)
+        {
+            ApplicationDbContext ctx = new ApplicationDbContext();
+            ctx.Users.FirstOrDefault(n => n.Id == userId)
+               .Roles.Add(new IdentityUserRole()
+               {
+                   UserId = userId,
+                   RoleId = roleId
+               });
+            ctx.SaveChanges();
+        }
+
         public static ApplicationUserManager Create(IdentityFactoryOptions<ApplicationUserManager> options, IOwinContext context) 
         {
             var manager = new ApplicationUserManager(new UserStore<ApplicationUser>(context.Get<ApplicationDbContext>()));
